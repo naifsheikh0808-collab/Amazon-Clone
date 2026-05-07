@@ -41,6 +41,10 @@ git clone https://github.com/naifsheikh0808-collab/amazon-clone.git
 
 2. Open `index.html` in your browser
 
+## Screenshot
+
+![alt text](image.png)
+
 ## 📚 Learning Purpose
 
 This project was created for practice to improve frontend development skills.
